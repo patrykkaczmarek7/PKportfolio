@@ -17,7 +17,7 @@ export default function Contact() {
                 </div>
                 <div className="grid grid-cols-4 pt-10">
                     <a href="https://www.linkedin.com/in/patryk-kaczmarek-921aa51ba/" target="_blank" className="p-3 place-self-center animate-float hover:bg-gray-800 transition duration-700 ease-in-out rounded-3xl"><img src={linkedin} alt="LinkedIn"/></a>
-                    <a href="https://github.com/devmaster7" target="_blank" className="p-3 place-self-center hover:bg-gray-800 transition duration-700 ease-in-out rounded-3xl"><img src={github} alt="GitHub"/></a>
+                    <a href="https://github.com/patrykkaczmarek7" target="_blank" className="p-3 place-self-center hover:bg-gray-800 transition duration-700 ease-in-out rounded-3xl"><img src={github} alt="GitHub"/></a>
                     <a href="https://www.instagram.com/thepatrykzi/" target="_blank" className="p-3 place-self-center animate-float hover:bg-gray-800 transition duration-700 ease-in-out rounded-3xl"><img src={instagram} alt="Instagram"/></a>
                     <a href="mailto:patrykkaczmarek7@gmail.com" target="_blank" className="p-3 place-self-center hover:bg-gray-800 transition duration-700 ease-in-out rounded-3xl"><img src={email} alt="Email"/></a>
                 </div>
