@@ -1,4 +1,4 @@
-# My portfolio. You can see the project here: https://pkaczmarek.vercel.app/
+# My portfolio https://pkaczmarek.vercel.app/
 App was built with Create React App
 
 ## Available Scripts
