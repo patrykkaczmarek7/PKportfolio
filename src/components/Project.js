@@ -29,7 +29,7 @@ export default function Project() {
                                     company.
                                     </p>
                                 <div className="py-5">
-                                    <a href="https://softwarehouse-pk.herokuapp.com/" className="bg-indigo-600 mt-5 px-5 py-1 text-white rounded-full text-sm sm:text-lg md:text-xl lg:text-2xl xl:text-1xl">More <i className="fa fa-hand-o-left"></i></a>
+                                    <a href="https://softwarehouse.vercel.app/" className="bg-indigo-600 mt-5 px-5 py-1 text-white rounded-full text-sm sm:text-lg md:text-xl lg:text-2xl xl:text-1xl">More <i className="fa fa-hand-o-left"></i></a>
                                 </div>
                             </div>
                         </div>
