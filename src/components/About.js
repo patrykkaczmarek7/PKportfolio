@@ -6,14 +6,15 @@ import html from '../images/About/html.png';
 import css from '../images/About/css.png';
 import js from '../images/About/js.png';
 import bootstrap from '../images/About/bootstrap.png';
-import react from '../images/About/react.png';
+import angular from '../images/About/angular.png';
 import tailwind from '../images/About/tailwind.png';
 import json from '../images/About/json.png';
 import php from '../images/About/php.png';
 import mysql from '../images/About/mysql.png';
 import cplusplus from '../images/About/cplusplus.png';
-import expressjs from '../images/About/expressjs.png';
+import nestjs from '../images/About/nestjs.png';
 import nodejs from '../images/About/nodejs.png';
+import expressjs from '../images/About/expressjs.png';
 import mongodb from '../images/About/mongodb.png';
 import photoshop from '../images/About/photoshop.png';
 import xd from '../images/About/xd.png';
@@ -37,7 +38,7 @@ export default function About() {
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={css}/>
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={js}/> <br/>
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={bootstrap}/>
-                            <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={react}/>
+                            <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={angular}/>
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={tailwind}/> <br/>
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={json}/>
                         </div>
@@ -46,8 +47,9 @@ export default function About() {
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={php}/>
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={mysql}/>
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={cplusplus}/> <br/>
-                            <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={expressjs}/>
+                            <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={nestjs}/>
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={nodejs}/>
+                            <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={expressjs}/> <br/>
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={mongodb}/>
                         </div>
                         <div className="text-center w-full"> <br/> <br className="md:hidden lg:hidden lx:hidden"/>
