@@ -7,8 +7,8 @@ import css from '../images/About/css.png';
 import js from '../images/About/js.png';
 import bootstrap from '../images/About/bootstrap.png';
 import angular from '../images/About/angular.png';
+import sass from '../images/About/sass.png';
 import tailwind from '../images/About/tailwind.png';
-import json from '../images/About/json.png';
 import php from '../images/About/php.png';
 import mysql from '../images/About/mysql.png';
 import cplusplus from '../images/About/cplusplus.png';
@@ -39,8 +39,8 @@ export default function About() {
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={js}/> <br/>
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={bootstrap}/>
                             <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={angular}/>
-                            <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={tailwind}/> <br/>
-                            <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={json}/>
+                            <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={sass}/> <br/>
+                            <img className="inline-block text-gray-700 transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300 text-center rounded-md bg-gray-100 px-4 py-2 m-2 h-16 md:h-32 lg:h-20 xl:h-24" src={tailwind}/>
                         </div>
                         <div className="text-center w-full"> <br/> <br className="md:hidden lg:hidden lx:hidden"/>
                             <p className="font-bold pb-4 text-4xl">Backend</p>
