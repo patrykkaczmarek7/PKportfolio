@@ -46,14 +46,14 @@ function App() {
                 id="example-navbar-danger"
               >
                 <ul className="flex flex-col lg:flex-row list-none lg:ml-auto text-white float-right text-right">
-                  <li className="flex px-6 py-1"><span style={{ color: darkMode ? "grey" : "yellow" }}>🌣</span>
+                  <li className="flex px-6 py-1"><span style={{ color: darkMode ? "grey" : "yellow" }}></span>
                     <div className="switch-checkbox">
                       <label className="switch">
                       <input type="checkbox" onChange={() => setDarkMode(!darkMode)} />
                       <span className="slider round"></span>
                       </label>
                     </div>
-                    <span style={{ color: darkMode ? "#c96dfd" : "grey" }}>☾</span>
+                    <span style={{ color: darkMode ? "#c96dfd" : "grey" }}></span>
                   </li>
                   <ScrollLink to="about" smooth={true}><li className="px-6 py-3 cursor-pointer text-xl transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300">About me</li></ScrollLink>
                   <ScrollLink to="project" smooth={true}><li className="px-6 py-3 cursor-pointer text-xl transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300">Project</li></ScrollLink>
