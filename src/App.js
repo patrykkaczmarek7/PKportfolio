@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Header from './components/Header';
 import Project from './components/Project';
-import Graphics from './components/Graphics';
+// import Graphics from './components/Graphics';
 import About from './components/About';
 import Contact from './components/Contact';
 import './assets/mode.css';
@@ -57,7 +57,7 @@ function App() {
                   </li>
                   <ScrollLink to="about" smooth={true}><li className="px-6 py-3 cursor-pointer text-xl transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300">About me</li></ScrollLink>
                   <ScrollLink to="project" smooth={true}><li className="px-6 py-3 cursor-pointer text-xl transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300">Project</li></ScrollLink>
-                  <ScrollLink to="graphics" smooth={true}><li className="px-6 py-3 cursor-pointer text-xl transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300">Graphics</li></ScrollLink>
+                  {/* <ScrollLink to="graphics" smooth={true}><li className="px-6 py-3 cursor-pointer text-xl transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300">Graphics</li></ScrollLink> */}
                   <ScrollLink to="contact" smooth={true}><li className="px-6 py-3 cursor-pointer text-xl transform motion-reduce:transform-none hover:-translate-y-1 hover:scale-110 transition ease-in-out duration-300">Contact</li></ScrollLink>
                 </ul>
               </div>
@@ -66,7 +66,7 @@ function App() {
           <Header/>
           <About/>
           <Project/>
-          <Graphics/>
+          {/* <Graphics/> */}
           <Contact/>
         </div>
       </div> 
