@@ -3,7 +3,7 @@ export default {
   header: {
     text: ['Hi!', "It's me Patryk Kaczmarek,", "I am "],
     typical: [
-      'a frontend developer 🖥️.',
+      'a frontend dev 🖥️.',
       2000,
       'a programmer 😎.',
       2000,
